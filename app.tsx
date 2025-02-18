@@ -17,6 +17,7 @@ export default defineComponent({
 
     return () => (
       <>
+        <div>666</div>
         <NuxtLayout>
           <NuxtPage />
         </NuxtLayout>
